@@ -12,10 +12,13 @@ Tensorflow implementation of [Generative Adversarial Nets](https://arxiv.org/abs
 # Usage
 ------------
 To clone the repository to your local repo.
-  $ git clone https://github.com/cjyu9211/cdal_gan
+
+      $ git clone https://github.com/cjyu9211/cdal_gan
 
 To train the model 
-  $ python gan_tuto.py
+      
+      $ python gan_tuto.py
+
 
 # Result
 --------
