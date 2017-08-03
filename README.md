@@ -17,10 +17,10 @@ To train the model
       $ python gan_tuto.py
 
 # Result
-- epoch 0
 ![alt_tag](result/000.png)
-- epoch 99
+- epoch 0
 ![alt_tag](result/099.png)
-- epoch 199
+- epoch 99
 ![alt_tag](result/199.png)
+- epoch 199
 
