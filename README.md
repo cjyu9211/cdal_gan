@@ -19,8 +19,10 @@ To train the model
 # Result
 ![alt_tag](result/000.png)
 - epoch 0
+
 ![alt_tag](result/099.png)
 - epoch 99
+
 ![alt_tag](result/199.png)
 - epoch 199
 
